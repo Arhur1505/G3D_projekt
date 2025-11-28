@@ -5,11 +5,11 @@ Przedmiot: Grafika 3D
 
 ---
 
-## Zrzut ekranu i ilm demonstracyjny
+## Zrzut ekranu i film demonstracyjny
 
 ![Model Bohra](media/Program.png)
 
-[Zobacz film demonstracyjny (MP4)](Film.mp4)
+[Zobacz film demonstracyjny (MP4)](media/Film.mp4)
 
 ## Opis projektu
 
