@@ -67,8 +67,8 @@ Z klawiatury:
   - `↑` / `↓` – obrót wokół osi X (z ograniczeniem, aby nie „przewrócić” kamery).
 - `1` / `Numpad1` – widok **orbit kołowych (model Bohra)**.
 - `2` / `Numpad2` – widok **chmury prawdopodobieństwa**.
-- `Num +` / `=` – zwiększenie liczby elektronów (max 18).
-- `Num -` / `-` – zmniejszenie liczby elektronów (min 1).
+- `Num +` – zwiększenie liczby elektronów (max 18).
+- `Num -` – zmniejszenie liczby elektronów (min 1).
 - `Spacja` – włączenie/wyłączenie animacji ruchu elektronów.
 - `A` – włączenie/wyłączenie **lokalnych osi** przy elektronach.
 - `R` – reset widoku do ustawień domyślnych (rotacja, liczba elektronów, tryb).
