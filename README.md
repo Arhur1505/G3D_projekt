@@ -79,3 +79,5 @@ Z klawiatury:
 - ewentualnie `pch.h` z konfiguracją projektu (precompiled header).
 
 ---
+
+[Film demonstracyjny (MP4)](Film.mp4)
