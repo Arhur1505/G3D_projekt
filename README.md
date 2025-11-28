@@ -5,6 +5,12 @@ Przedmiot: Grafika 3D
 
 ---
 
+## Zrzut ekranu i ilm demonstracyjny
+
+![Model Bohra](media/Program.png)
+
+[Zobacz film demonstracyjny (MP4)](Film.mp4)
+
 ## Opis projektu
 
 Projekt przedstawia interaktywną wizualizację atomu w 3D z wykorzystaniem biblioteki **SFML** oraz **OpenGL**.  
@@ -79,9 +85,3 @@ Z klawiatury:
 - ewentualnie `pch.h` z konfiguracją projektu (precompiled header).
 
 ---
-
-## Film demonstracyjny
-
-[Zobacz film demonstracyjny (MP4)](Film.mp4)
-
-
