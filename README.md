@@ -80,4 +80,7 @@ Z klawiatury:
 
 ---
 
-[Film demonstracyjny (MP4)](Film.mp4)
+<video src="Film.mp4" controls width="640">
+  Twoja przeglądarka nie obsługuje tagu video.
+</video>
+
