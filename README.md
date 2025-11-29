@@ -76,12 +76,22 @@ Z klawiatury:
 
 ---
 
-### Biblioteki:
+## Biblioteki:
 
 - **SFML** (co najmniej moduły: `window`, `graphics`, `system`),
 - **OpenGL** (`opengl32.lib`),
 - **GLU** (`glu32.lib`),
 - **GLEW** lub inna biblioteka ładująca funkcje OpenGL (wywołanie `glewInit()` w `main`),
 - ewentualnie `pch.h` z konfiguracją projektu (precompiled header).
+
+---
+
+### Instrukcja uruchomienia
+
+1. Sklonuj repozytorium (projekt Visual Studio – wstawiony i wersjonowany przez wbudowanego Gita).
+2. Otwórz plik `*.sln` w Visual Studio 2019/2022.
+3. Wybierz odpowiednią konfigurację (`Debug`/`Release`, `x86`/`x64` — zgodnie z bibliotekami w projekcie).
+4. Upewnij się, że folder `resources/` znajduje się obok pliku wykonywalnego (VS kopiuje go automatycznie, jeśli nie zmieniono struktury).
+5. Zbuduj projekt (`Ctrl+Shift+B`) i uruchom (`F5` lub `Ctrl+F5`).
 
 ---
